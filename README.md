@@ -8,12 +8,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 </div>
 
-<div style="display: flex; align-items: justify; justify-content: center;">
-<!-- GIF -->
-<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="320px" style="margin-right: 20px;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; margin: 20px 0;">
+  <!-- GIF -->
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="320px" alt="GIF ilustrativo">
 
-<!-- Texto -->
-<p style="max-width: 500px; text-align: left;">
+  <!-- Texto -->
+  <p style="max-width: 500px; text-align: left; margin: 0;">
 Estou focado no desenvolvimento back-end e constantemente construo projetos que, até o momento, são principalmente baseados em Python. Estou cursando Ciência da Computação na UEPB, o que tem ampliado minha compreensão das bases teóricas e práticas da área de TI. Minha formação acadêmica complementa meus interesses pessoais em linguagens como Ruby, Rust, Java, C# e JavaScript.
 <br><br>
 Meu primeiro grande objetivo é conquistar uma posição como desenvolvedor back-end júnior, o que me permitirá colocar em prática o que tenho aprendido. Ao longo do tempo, quero me tornar um desenvolvedor back-end completo e contribuir significativamente para minha equipe.
