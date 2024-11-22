@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou Rafael</h1>
 
-<h1 align="center">Back-end Developer</h1>
+<h2 align="center">Back-end Developer</h2>
 <h3 align="center">Linguagens Usadas:</h3>
 
 <div align="center">
