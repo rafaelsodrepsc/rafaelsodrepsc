@@ -19,12 +19,9 @@
   </p>
 </div>
 
-  
 <div align="center">
-  
   [![GitHub Streak](https://streak-stats.demolab.com?user=rafaelsodrepsc&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsodrepsc&layout=compact&theme=dark)
-
 </div>
 
 *******************
