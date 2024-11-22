@@ -13,7 +13,7 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="320px" style="margin-right: 20px;">
 
   <!-- Texto -->
-  <p style="max-width: 500px; text-align: justify;">
+  <p style="max-width: 500px; text-align: left;">
     Estou focado no desenvolvimento back-end e constantemente construo projetos que, até o momento, são principalmente baseados em Python. Estou cursando Ciência da Computação na UEPB, o que tem ampliado minha compreensão das bases teóricas e práticas da área de TI. Minha formação acadêmica complementa meus interesses pessoais em linguagens como Ruby, Rust, Java, C# e JavaScript.
     <br><br>
     Meu primeiro grande objetivo é conquistar uma posição como desenvolvedor back-end júnior, o que me permitirá colocar em prática o que tenho aprendido. Ao longo do tempo, quero me tornar um desenvolvedor back-end completo e contribuir significativamente para minha equipe.
