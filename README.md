@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou Rafael</h1>
 
-<h2 aligh = "center">
+<h2 align = "center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oxanium&pause=1000&color=1D19D1D7&width=435&lines=Back-end+developer)](https://git.io/typing-svg)
 </h2>
 <h3 align="center">Linguagens Usadas:</h3>
