@@ -18,10 +18,15 @@
   Meu primeiro grande objetivo é conquistar uma posição como desenvolvedor back-end júnior, o que me permitirá colocar em prática o que tenho aprendido. Ao longo do tempo, quero me tornar um desenvolvedor back-end completo e contribuir significativamente para minha equipe.
 </p>
 
+  
 <div align="center">
+  
   [![GitHub Streak](https://streak-stats.demolab.com?user=rafaelsodrepsc&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsodrepsc&layout=compact&theme=dark)
+
 </div>
+
+*******************
 
 <h3 align="center">Entre em contato:</h3>
 <p align="center">
