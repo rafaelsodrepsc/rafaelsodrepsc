@@ -10,7 +10,7 @@
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px; margin: 20px 0;">
 
-  <img src="https://github.com/rafaelsodrepsc/rafaelsodrepsc/blob/0343243b31712211dcb92a31a2ada555efb197ec/Rafael.png" width="320px" alt="Apresentação">
+  <img src="https://github.com/rafaelsodrepsc/rafaelsodrepsc/blob/0343243b31712211dcb92a31a2ada555efb197ec/Rafael.png" width="1380px"  alt="Apresentação">
 
 <p style="max-width: 500px; text-align: left;">
   <p style="max-width: 500px; text-align: left; margin: 0;">
