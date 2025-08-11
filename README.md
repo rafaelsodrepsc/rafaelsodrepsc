@@ -9,12 +9,10 @@
 </div>
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px; margin: 20px 0;">
-  <!-- GIF -->
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="320px" alt="GIF ilustrativo">
 
-<!-- Texto -->
+  <img src="https://github.com/rafaelsodrepsc/rafaelsodrepsc/blob/0343243b31712211dcb92a31a2ada555efb197ec/Rafael.png" width="320px" alt="Apresentação">
+
 <p style="max-width: 500px; text-align: left;">
-  <!-- Texto -->
   <p style="max-width: 500px; text-align: left; margin: 0;">
 Estou focado no desenvolvimento back-end e constantemente construo projetos que, até o momento, são principalmente baseados em Python. Estou cursando Ciência da Computação na UEPB, o que tem ampliado minha compreensão das bases teóricas e práticas da área de TI. Minha formação acadêmica complementa meus interesses pessoais em linguagens como Ruby, Rust, Java, C# e JavaScript.
 <br><br>
