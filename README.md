@@ -1,38 +1,86 @@
-<h1 align="center">Olá, eu sou Rafael</h1>
+# Rafael Sodré Paschoal
 
-<h2 align="center">Back-end Developer</h2>
+Computer Science student @ UEPB (expected 2028)  
+📍 Brazil | Open to internships / junior backend roles  
 
-<h3 align="center">Linguagens Usadas:</h3>
+Backend Engineer focused on scalable, distributed systems and AI-powered applications.
 
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-</div>
+Building production-oriented systems using Java (Spring Boot) and Python (FastAPI), with emphasis on clean architecture, performance, and real-world problem solving.
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; margin: 20px 0;">
+---
 
-  <img src="https://github.com/rafaelsodrepsc/rafaelsodrepsc/blob/0343243b31712211dcb92a31a2ada555efb197ec/Rafael.png" width="1380px"  alt="Apresentação">
+## Projects
 
-<p style="max-width: 500px; text-align: left;">
-  <p style="max-width: 500px; text-align: left; margin: 0;">
-Estou focado no desenvolvimento back-end e constantemente construo projetos que, até o momento, são principalmente baseados em Python. Estou cursando Ciência da Computação na UEPB, o que tem ampliado minha compreensão das bases teóricas e práticas da área de TI. Minha formação acadêmica complementa meus interesses pessoais em linguagens como Ruby, Rust, Java, C# e JavaScript.
-<br><br>
-Meu primeiro grande objetivo é conquistar uma posição como desenvolvedor back-end júnior, o que me permitirá colocar em prática o que tenho aprendido. Ao longo do tempo, quero me tornar um desenvolvedor back-end completo e contribuir significativamente para minha equipe.
-</p>
-</div>
+### [rag-java](https://github.com/rafaelsodrepsc/rag-java) · Java
+RAG-based document Q&A API that:
+- Processes PDFs/TXT into semantic chunks
+- Generates embeddings and stores in pgvector
+- Retrieves relevant context to reduce hallucinations
+- Ensures answers are grounded strictly in source documents
+
+Focus: retrieval accuracy, latency, and scalable document ingestion
+
+`Java 21` `Spring Boot 3.5` `LangChain4j` `OpenAI` `PostgreSQL + pgvector` `Docker`
+
+---
+
+### [csv-analyst-api](https://github.com/rafaelsodrepsc/csv-analyst-api) · Python
+API that enables non-technical users to query CSV data using natural language.
+
+- Translates queries into Pandas code via LLM
+- Executes code in a sandboxed environment (AST validation + isolated namespace)
+- Prevents unsafe execution with strict runtime limits (5s timeout)
+
+Focus: safe LLM code execution and data accessibility
+
+`FastAPI` `Pandas` `Groq API` `LLaMA 3.3 70B` `python-dotenv`
+
+---
 
 
-<div align="center">
+### [Ranker](https://github.com/rafaelsodrepsc/Ranker) · Java
+Championship management system supporting multiple tournament formats:
+- Round Robin with mirror pairing and odd-team handling
+- Single-elimination brackets with power-of-2 validation (bitwise)
+- Match scheduling across venues and dates
+- Standings table with tie-breaker rules
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rafaelsodrepsc&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsodrepsc&layout=compact&theme=dark)
+Focus: algorithm design and data consistency
 
-</div>
+`Java 21` `OOP` `Streams & Lambdas` `Custom Exceptions` `Scheduling Algorithm`
 
-*******************
+---
 
-<h3 align="center">Entre em contato:</h3>
-<p align="center">
-<img src="https://custom-icon-badges.demolab.com/badge/rafaelsodrepaschoal@gmail.com-808080?style=for-the-badge&logo=mention&logoColor=white"> 
-<a href="https://www.linkedin.com/in/rafael-sodr%C3%A9-b354472a5/" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/rafael_sdre/" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-Instagram-808080?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
+### [whisp](https://github.com/rafaelsodrepsc/whisp) · Java · `WIP`
+Real-time chat platform with AI integration.
+
+Event-driven microservices architecture with:
+- Async communication via Kafka
+- Dedicated authentication service (JWT/OAuth2)
+- Redis-based session caching
+- Horizontal scalability and decoupled services
+
+`Java 21` `Spring Boot` `WebSocket` `Kafka` `Redis` `PostgreSQL` `Docker`
+
+---
+## What I'm focusing on
+
+- Designing scalable and distributed backend systems
+- Applying AI (RAG, LLMs) to real-world problems
+- Building secure and reliable APIs
+- Improving system performance and observability
+---
+
+## Stack
+
+**Backend:** Java (Spring Boot) · Python (FastAPI, Flask)  
+**Databases:** PostgreSQL · MySQL  
+**AI & Data:** LLM APIs · RAG · Prompt Engineering · Pandas  
+**Infrastructure:** Docker · AWS (EC2, S3)  
+**Security:** OAuth2 · JWT  
+
+---
+
+## Contact
+
+[rafaelsodrepaschoal@gmail.com](mailto:rafaelsodrepaschoal@gmail.com) · [linkedin.com/in/rafaelsodrepsc](https://linkedin.com/in/rafaelsodrepsc)
