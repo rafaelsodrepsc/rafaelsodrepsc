@@ -99,13 +99,16 @@ Focus: algorithm design, object-oriented modeling, and data consistency.
 
 ## Stack
 
-**Backend:** Java, Spring Boot, Python, FastAPI, Flask
-**Frontend:** Angular
-**Databases:** PostgreSQL (+ pgvector), MySQL
-**Messaging & Cache:** Kafka, Redis
-**AI & Data:** LLM APIs, RAG, Prompt Engineering, Pandas
-**Infrastructure:** Docker, Docker Compose, AWS EC2, AWS S3
-**Security:** OAuth2, JWT
+- **Backend:** Java (Spring Boot), Python (FastAPI, Flask), REST APIs, WebSocket (STOMP), API Design
+- **Frontend:** Angular, TypeScript, HTML5, CSS3
+- **Databases:** PostgreSQL, MySQL, SQL, JDBC, Data Modeling, pgvector
+- **Messaging & Cache:** Apache Kafka, Redis
+- **AI & Data:** OpenAI API, Groq API, LangChain4j, RAG Pipelines, Prompt Engineering, Pandas
+- **Software Engineering:** Clean Code, SOLID, Design Patterns, Debugging, Code Review
+- **Testing:** Unit Testing, Integration Testing, Automated Testing
+- **Cloud & DevOps:** Docker, Docker Compose, Git, GitHub, Linux (Ubuntu/WSL), CI/CD, AWS EC2, AWS S3
+- **Security:** JWT, OAuth2, Secrets Management, API Security
+- **Languages:** Portuguese (Native), English (Upper Intermediate)
 
 ---
 
@@ -205,13 +208,16 @@ Foco: algoritmos, modelagem orientada a objetos e consistência de dados.
 
 ## Stack
 
-**Backend:** Java, Spring Boot, Python, FastAPI, Flask
-**Frontend:** Angular
-**Bancos de dados:** PostgreSQL (+ pgvector), MySQL
-**Mensageria e Cache:** Kafka, Redis
-**IA e Dados:** LLM APIs, RAG, Prompt Engineering, Pandas
-**Infraestrutura:** Docker, Docker Compose, AWS EC2, AWS S3
-**Segurança:** OAuth2, JWT
+- **Backend:** Java (Spring Boot), Python (FastAPI, Flask), APIs REST, WebSocket (STOMP), Design de APIs
+- **Frontend:** Angular, TypeScript, HTML5, CSS3
+- **Bancos de dados:** PostgreSQL, MySQL, SQL, JDBC, Modelagem de Dados, pgvector
+- **Mensageria e Cache:** Apache Kafka, Redis
+- **IA e Dados:** OpenAI API, Groq API, LangChain4j, Pipelines RAG, Engenharia de Prompt, Pandas
+- **Engenharia de Software:** Clean Code, SOLID, Design Patterns, Debugging, Code Review
+- **Testes:** Testes Unitários, Testes de Integração, Testes Automatizados
+- **Cloud e DevOps:** Docker, Docker Compose, Git, GitHub, Linux (Ubuntu/WSL), CI/CD, AWS EC2, AWS S3
+- **Segurança:** JWT, OAuth2, Gerenciamento de Segredos, Segurança de APIs
+- **Idiomas:** Português (Nativo), Inglês (Intermediário Avançado)
 
 ---
 
