@@ -23,7 +23,7 @@ I build backend applications using Java, Spring Boot, Python, and FastAPI, with 
 
 ## Projects
 
-### [whisp](https://github.com/rafaelsodrepsc/whisp) · Java · WIP
+### [whisp](https://github.com/rafaelsodrepsc/whisp) · Java
 
 Real-time chat platform focused on backend architecture and distributed communication.
 
@@ -34,7 +34,7 @@ Real-time chat platform focused on backend architecture and distributed communic
 - Unit test suite (16 tests) covering core domain logic
 - Multistage Dockerfiles orchestrated with Docker Compose
 - AI service layer integrating the Groq API via Java 21 native HttpClient
-- Angular frontend (whisp-client) in progress, consuming the backend API
+- Angular frontend (whisp-client) consuming the backend API
 
 Focus: real-time communication, API security, distributed system design, and separating WebSocket delivery, Kafka persistence, and Redis session state.
 
@@ -129,7 +129,7 @@ Construo aplicações backend usando Java, Spring Boot, Python e FastAPI, com ê
 
 ## Projetos
 
-### [whisp](https://github.com/rafaelsodrepsc/whisp) · Java · WIP
+### [whisp](https://github.com/rafaelsodrepsc/whisp) · Java
 
 Plataforma de chat em tempo real focada em arquitetura backend e comunicação distribuída.
 
@@ -140,7 +140,7 @@ Plataforma de chat em tempo real focada em arquitetura backend e comunicação d
 - Suíte de testes unitários (16 testes) cobrindo a lógica de domínio
 - Dockerfiles multistage orquestrados com Docker Compose
 - Camada de IA integrando a API da Groq via HttpClient nativo do Java 21
-- Frontend em Angular (whisp-client) em desenvolvimento, consumindo a API do backend
+- Frontend em Angular (whisp-client), consumindo a API do backend
 
 Foco: comunicação em tempo real, segurança de APIs, design de sistemas distribuídos e separação entre entrega via WebSocket, persistência via Kafka e estado de sessão via Redis.
 
